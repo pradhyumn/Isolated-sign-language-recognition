@@ -16,9 +16,9 @@ We will be using the Isolated Sign Language Recognition corpus (version 1.0) dat
 After the pre-processing of the frames, we show the *features statistics* of Lips, Hands and Pose that we extracted from the data in the following Boxplots.
 
 <p float="left">
-  <img src="/Figures/Lips.png" width="300" display="inline" />
-  <img src="/Figures/Pose.png" width="300" display="inline" />
-  <img src="/Figures/Hands.png" width="300" display="inline" />
+  <img src="/Figures/Lips.png" width="200" display="inline" />
+  <img src="/Figures/Pose.png" width="200" display="inline" />
+  <img src="/Figures/Hands.png" width="200" display="inline" />
 </p>
 
 
